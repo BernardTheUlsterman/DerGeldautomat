@@ -26,6 +26,12 @@ Geld auf das Konto eines Mobiltelefons einzuzahlen, oder weitere bankspezifische
 mag Dir jetzt für den Anfang verwirrend erscheinen, aber wenn Du dazu Fragen hast gebe ich Dir
 dazu gerne eine weitere Anleitung.
 
+## Geld abheben
+Wenn Du die Option wählst, um Geld abzuheben, kannst Du entweder einen der vorgeschlagenen Beträge
+wählen oder den gewünschten Betrag auf dem Nummernfeld eingeben und die Eingabe mit der grünen
+Taste Bestätigung abschliessen.
+Anschliessend bekommst Du die Karte zurück und den gewählten Geldbetrag ausbezahlt.
+
 ## Kontostand abfragen
 Wenn Du die Option wählst um den Kontostand abzufragen, dann wird Dir Dein Kontostand angezeigt.
 Anschliessend kannst Du wählen ob Du eine weitere Transaktion vornehmen willst oder nicht. Wenn Du
@@ -33,12 +39,6 @@ auch Geld abheben willst, dann bestätige das mit der grünen Taste Bestätigung
 ins Menü unter Punkt 3. wo Du dann die Option wählen kannst, um Geld abzuheben.
 Wenn Du nur Deinen Kontostand abfragen wolltest, dann drückst Du die rote Taste Abbruch und bekommst
 Deine Karte wieder zurück.
-
-## Geld abheben
-Wenn Du die Option wählst, um Geld abzuheben, kannst Du entweder einen der vorgeschlagenen Beträge
-wählen oder den gewünschten Betrag auf dem Nummernfeld eingeben und die Eingabe mit der grünen
-Taste Bestätigung abschliessen.
-Anschliessend bekommst Du die Karte zurück und den gewählten Geldbetrag ausbezahlt.
 
 ## HINWEIS: 
 Beachte dabei bitte - falls Du an einem Geldautomaten bist der nicht von Deiner Bank ist, dann ist
