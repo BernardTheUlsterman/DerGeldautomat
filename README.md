@@ -8,7 +8,7 @@ Metallkontakten vorne.
 
 ## Geheimzahl eingeben
 Wenn die Karte eingeführt ist, wirst Du nach Deiner Geheimzahl gefragt. Gib die Geheimzahl auf dem Nummernfeld mit der rechten Hand ein, halte dabei die Eingabe mit der linken
-Hand bedeckt damit Dich niemand dabei beobachten kann. <br> Schliesse die Eingabe mit der grünen Taste <b> Bestätigung </b> ab. Eine falsche Eingabe kannst Du mit der gelben Taste Korrektur korrigieren, dann wird die zuletzt
+Hand bedeckt damit Dich niemand dabei beobachten kann. <br>  <br> Schliesse die Eingabe mit der grünen Taste <b> Bestätigung </b> ab. Eine falsche Eingabe kannst Du mit der gelben Taste Korrektur korrigieren, dann wird die zuletzt
 eingegebene Ziffer gelöscht und Du kannst diese erneut eingeben. Mit der roten Taste Abbruch kannst Du die Eingabe abbrechen und erhälst dann Deine Karte zurück.
 
 ## Auswahlmenü
