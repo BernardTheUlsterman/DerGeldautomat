@@ -1,5 +1,7 @@
 # Geld vom Geldautomaten abheben
 
+(Anleitung für Onkel Otto, wie er den Geldautomaten bedient).
+
 Lieber Onkel Otto, den Geldautomaten bedienst Du wie folgt:
 
 ## Karte einführen
